@@ -80,6 +80,9 @@ section:first-child > div {
 .my-title {
     font-size: 24px;
     font-weight: 300;
+}
+
+.my-title-link {
     color: #3498db;
 }
 
